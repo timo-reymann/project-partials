@@ -1,5 +1,6 @@
 ${PROJECT_NAME}
 ===
+[![LICENSE](https://img.shields.io/github/license/timo-reymann/gpg-key-creation-assistant)](https://github.com/timo-reymann/${REPO_SLUG_NAME}/blob/main/LICENSE)
 [![CircleCI](https://circleci.com/gh/timo-reymann/${REPO_SLUG_NAME}.svg?style=shield)](https://app.circleci.com/pipelines/github/timo-reymann/${REPO_SLUG_NAME})
 [![GitHub Actions](https://github.com/timo-reymann/${REPO_SLUG_NAME}/actions/workflows/main.yml/badge.svg)](https://github.com/timo-reymann/${REPO_SLUG_NAME}/actions/workflows/main.yml)
 [![GitHub Release](https://img.shields.io/github/v/tag/timo-reymann/${REPO_SLUG_NAME}?label=version)](https://github.com/timo-reymann/${REPO_SLUG_NAME}/releases)
