@@ -2,7 +2,12 @@ project-partials
 ===
 [![LICENSE](https://img.shields.io/github/license/timo-reymann/project-partials)](https://github.com/timo-reymann/project-partials/blob/main/LICENSE)
 
-Partial files for projects to copy&pasta and adjust
+
+<p align="center">
+	<img width="300" src=".github/images/logo.png">
+    <br />
+    Partial files for projects to copy&pasta and adjust
+</p>
 
 ## Usage
 
