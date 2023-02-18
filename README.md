@@ -54,3 +54,10 @@ Partial files for projects to copy&pasta and adjust
   export PROJECT_NAME=my-action
   curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/README.github-action.md | envsubst
   ```
+#### README for Slides
+- [Template](./partials/README.slides.md)
+- Templating:
+  ```bash
+  export PROJECT_NAME=my-action
+  curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/README.slides.md | envsubst
+  ```
