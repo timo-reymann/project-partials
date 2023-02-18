@@ -47,3 +47,10 @@ Partial files for projects to copy&pasta and adjust
   curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/README.general.md | envsubst
   ```
 
+#### README for GitHub Action
+- [Template](./partials/README.github-action.md)
+- Templating:
+  ```bash
+  export PROJECT_NAME=my-action
+  curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/README.github-action.md | envsubst
+  ```
