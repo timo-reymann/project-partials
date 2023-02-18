@@ -62,3 +62,11 @@ Partial files for projects to copy&pasta and adjust
   export PROJECT_NAME=my-action
   curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/README.slides.md | envsubst
   ```
+
+#### README for Homebrew formulas
+- [Template](./partials/README.homebrew.md)
+- Templating:
+  ```bash
+  export PROJECT_NAME=my-source-project
+  curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/README.homebrew.md | envsubst
+  ```
