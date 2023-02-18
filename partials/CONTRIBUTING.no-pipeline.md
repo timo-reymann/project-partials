@@ -11,7 +11,7 @@ I love your input! I want to make contributing to this project as easy and trans
 I use github to host code, to track issues and feature requests, as well as accept pull requests.
 
 ## Any contributions you make will be under the ${LICENSE_NAME}
-In short, when you submit code changes, your submissions are understood to be under the same [${LICENSE_NAME}](https://github.com/timo-reymann/${REPO_URL_SLUG}/blob/main/LICENSE) that covers the project. Feel free to contact the maintainers if that's a concern.
+In short, when you submit code changes, your submissions are understood to be under the same [${LICENSE_NAME}](https://github.com/timo-reymann/${REPO_SLUG_NAME}/blob/main/LICENSE) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report bugs using Github's issues
 I use GitHub issues to track public bugs. Report a bug by opening a new issue, it's that easy!
