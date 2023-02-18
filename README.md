@@ -18,6 +18,19 @@ Partial files for projects to copy&pasta and adjust
   curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/CONTRIBUTING.circleci.md | envsubst
   ```
 
+#### Contribution guidelines for projects using no pipeline
+
+- [Template](./partials/CONTRIBUTING.no-pipeline.md)
+- Templating:
+  ```bash
+  export PROJECT_NAME=Human project name
+  export LICENSE_NAME=license name
+  export REPO_SLUG_NAME=repo-name-github
+  curl -sS https://raw.githubusercontent.com/timo-reymann/project-partials/main/partials/CONTRIBUTING.no-pipeline.md | envsubst
+  ```
+
+
+
 ### READMEs
 
 #### README with Circleci or GitHub Workflow
