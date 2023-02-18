@@ -15,6 +15,9 @@ ${PROJECT_NAME}
 ## Features
 <!-- List features as bullet points -->
 
+## Requirements
+<!-- Add requirements as bullet points if any -->
+
 ## Installation
 <!-- Add installation instructions -->
 
