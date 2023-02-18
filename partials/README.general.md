@@ -12,6 +12,8 @@ ${PROJECT_NAME}
     Short description goes here
 </p>
 
+## Features
+<!-- List features as bullet points -->
 
 ## Installation
 <!-- Add installation instructions -->
